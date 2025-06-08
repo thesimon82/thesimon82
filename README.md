@@ -11,12 +11,14 @@ His expertise spans applied AI, cloud-native architecture, business process auto
 
 ### ⚙️ Key Projects & Domains
 
-- 🔧 `HR24.ai` – AI-enhanced recruiting automation platform  
-- 🧾 `Paghe.ai` – Automated payroll engine for SME and enterprise  
-- 🧠 `FNS` – Lightweight neural network simulator (featured in *Scientific Reports*)  
-- 🌾 `SpectraScan Gluten` – NIR-based portable gluten detection system  
-- 📍 `Yooth` – Geolocated hyperlocal social platform for nightlife  
-- 🧬 `AI4OCR` – Real-time text extraction & classification with GCV + vector embeddings  
+| Project | Link |
+|--------|------|
+| 🔧 `HR24.ai` – AI-enhanced recruiting automation platform | [![Visit](https://img.shields.io/badge/Visit%20Now-hr24.ai-65b743?style=for-the-badge)](https://hr24.ai) |
+| 🧾 `Paghe.ai` – Automated payroll engine for SME and enterprise | [![Visit](https://img.shields.io/badge/Visit%20Now-paghe.ai-65b743?style=for-the-badge)](https://paghe.ai) |
+| 🧠 `FNS` – Lightweight neural network simulator (featured in *Scientific Reports*) | [![Visit](https://img.shields.io/badge/Visit%20Now-fnsneuralsimulator.org-65b743?style=for-the-badge)](https://www.fnsneuralsimulator.org/) |
+| 🌾 `SpectraScan Gluten` – NIR-based portable gluten detection system | [![Visit](https://img.shields.io/badge/Visit%20Now-renor.it-65b743?style=for-the-badge)](https://renor.it/spectrascan-gluten-il-rilevatore-tascabile-di-glutine-per-celiaci/) |
+| 📍 `Yooth` – Geolocated hyperlocal social platform for nightlife | [![Visit](https://img.shields.io/badge/Visit%20Now-yooth.it-65b743?style=for-the-badge)](https://yooth.it) |
+
 - 🔐 Additional projects under NDA (banking, HR automation, scientific instrumentation)
 
 ---
